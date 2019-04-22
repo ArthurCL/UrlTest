@@ -1,0 +1,24 @@
+{
+    "baoYanShop": [
+                   {
+                   "id": "1",
+                   "name": "宝燕商城(春申店)",
+                   "address": "上海市闵行区春申路3333号",
+                   "latitude": "31.103654",
+                   "longitude": "121.396327",
+                   "phoneNumber": "13916301837",
+                   "image":"ChunShenShop_Image",
+                   "distributionScope":"5000"
+                   },
+                   {
+                   "id": "2",
+                   "name": "宝燕商城(大宁店)",
+                   "address": "上海市静安区灵石路716号",
+                   "latitude": "31.281726",
+                   "longitude": "121.439496",
+                   "phoneNumber": "13916301837",
+                   "image":"DaNingShop_Image",
+                   "distributionScope":"5000"
+                   }
+                   ]
+}
