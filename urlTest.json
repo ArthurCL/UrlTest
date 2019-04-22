@@ -1,24 +1,32 @@
-{
-    "baoYanShop": [
-                   {
-                   "id": "1",
-                   "name": "宝燕商城(春申店)",
-                   "address": "上海市闵行区春申路3333号",
-                   "latitude": "31.103654",
-                   "longitude": "121.396327",
-                   "phoneNumber": "13916301837",
-                   "image":"ChunShenShop_Image",
-                   "distributionScope":"5000"
-                   },
-                   {
-                   "id": "2",
-                   "name": "宝燕商城(大宁店)",
-                   "address": "上海市静安区灵石路716号",
-                   "latitude": "31.281726",
-                   "longitude": "121.439496",
-                   "phoneNumber": "13916301837",
-                   "image":"DaNingShop_Image",
-                   "distributionScope":"5000"
-                   }
-                   ]
-}
+[
+    {
+        "url":"https://www.toutiao.com/i6671632015663563267/"
+    },
+    {
+        "url":"https://www.toutiao.com/i6671625077252948492/"
+    },
+    {
+        "url":"https://www.toutiao.com/i6671621851552154115/"
+    },
+    {
+        "url":"https://www.toutiao.com/i6671619885224690183/"
+    },
+    {
+        "url":"https://www.toutiao.com/i6671617399621419528/"
+    },
+    {
+        "url":"https://www.toutiao.com/i6671241149618848267/"
+    },
+    {
+        "url":"https://www.toutiao.com/i6671236615681081870/"
+    },
+    {
+        "url":"https://www.toutiao.com/i6671232131701670407/"
+    },
+    {
+        "url":"https://www.toutiao.com/i6671228752522904076/"
+    },
+    {
+        "url":"https://www.toutiao.com/i6671225041742463495/"
+    }
+]
